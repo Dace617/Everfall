@@ -113,3 +113,7 @@ To actually launch and then play Everfall, follow these steps:
 ### Bug Reporting
 
 Until a proper bug tracking solution is implemented please contact me on discord for any bug reports.
+
+---
+
+####General Gameplay information can be found [HERE](https://github.com/Dace617/Everfall/blob/main/Gameplay.md)
