@@ -37,7 +37,7 @@ In order for your installation to go smoothly the following steps are recommende
 
 ## Installing the List
 
-If you are updating your existing installation of Everfall, skip to the [Updating](#-updating-everfall) section of this document.
+If you are updating your existing installation of Everfall, skip to the [Updating](#updating-everfall) section of this document.
 
 It’s now time to begin the installation of the list. Follow these steps:
 
