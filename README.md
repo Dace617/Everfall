@@ -146,7 +146,7 @@ Please refer to modifying the list in the Gameplay document if you would like in
 
 ### Bug Reporting
 
-Until a proper bug tracking solution is implemented please contact me on discord for any bug reports.
+Please log any bug reports on Github [HERE](https://github.com/Dace617/Everfall/issues/new) please note this does require a github account. Alternatively you can contact me on Discord, however a Github issue will ensure the issues is addressed.
 
 ---
 
