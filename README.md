@@ -116,4 +116,4 @@ Until a proper bug tracking solution is implemented please contact me on discord
 
 ---
 
-####General Gameplay information can be found [HERE](https://github.com/Dace617/Everfall/blob/main/Gameplay.md)
+#### General Gameplay information can be found [HERE](https://github.com/Dace617/Everfall/blob/main/Gameplay.md)
