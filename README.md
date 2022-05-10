@@ -14,6 +14,10 @@ In order to ensure you have an unmodified copy of the game installed, please use
 
 If you would like to keep any modified gamefiles, please back them up before you do this step.
 
+---
+
+Once installed Everfall uses a Mod Organizer plugin called RootBuilder to simulate the game files for Dragon's Dogma Dark Arisen and should no longer interfere with your Steam installation ***WITH THE LARGE EXCEPTION OF SAVE FILES*** this is detailed later in the document [HERE](-a-note-on-existing-save-files)
+
 
 ### Wabbajack Preparations
 
