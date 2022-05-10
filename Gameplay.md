@@ -41,7 +41,11 @@ Fashion is the true endgame as they say. I have included a few tweaks to various
 ## Other miscellaneous inclusions
 
 A few other inclusions in the list edit small things like the title screen and music in the game, I will detail them here for completeness.
-[Sevenredreturns' Segmented Healthbar for Bosses](https://www.nexusmods.com/dragonsdogma/mods/374) is included, this adds segments to the boss bars. [Yamagyeto's End of Struggle (DDO Version)](https://www.nexusmods.com/dragonsdogma/mods/423) alters the music when you are close to beating a boss to the Dragon's Dogma Online version of the song. [Ryles1's Dark Arisen Title Screen Revival](https://www.nexusmods.com/dragonsdogma/mods/713), and [ReaperBiohazard's Into Free Dragon's Dogma Title Music](https://www.nexusmods.com/dragonsdogma/mods/609) round out the title screen changes to bring back the original Dragon's Dogma title music (Added purely because I like it) and changes up the movies you see playing on the title screen. Lastly, [SnowyOmen's NO ESRB Loading Replacer](https://www.nexusmods.com/dragonsdogma/mods/30) replaces the blinding white ESRB logo with a much nicer Dragon's Dogma logo screen when starting the game.
+
+* [Sevenredreturns' Segmented Healthbar for Bosses](https://www.nexusmods.com/dragonsdogma/mods/374) is included, this adds segments to the boss bars. 
+* [Yamagyeto's End of Struggle (DDO Version)](https://www.nexusmods.com/dragonsdogma/mods/423) alters the music when you are close to beating a boss to the Dragon's Dogma Online version of the song. 
+* [Ryles1's Dark Arisen Title Screen Revival](https://www.nexusmods.com/dragonsdogma/mods/713), and [ReaperBiohazard's Into Free Dragon's Dogma Title Music](https://www.nexusmods.com/dragonsdogma/mods/609) round out the title screen changes to bring back the original Dragon's Dogma title music (Added purely because I like it) and changes up the movies you see playing on the title screen. 
+* Lastly, [SnowyOmen's NO ESRB Loading Replacer](https://www.nexusmods.com/dragonsdogma/mods/30) replaces the blinding white ESRB logo with a much nicer Dragon's Dogma logo screen when starting the game.
 
 
 ## Editing the list
