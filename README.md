@@ -22,7 +22,7 @@ Once installed Everfall uses a Mod Organizer plugin called RootBuilder to simula
 
 ### Wabbajack Preparations
 
-This section will walk you through installing Wabbajack if you have already installed Wabbajack you can move onto the next step [HERE](https://github.com/Dace617/Everfall/blob/main/README.md#installing-the-list)
+This section will walk you through installing Wabbajack if you have already installed Wabbajack you can move onto the next step [HERE](#installing-the-list)
 
 
 In order for your installation to go smoothly the following steps are recommended:
@@ -37,7 +37,7 @@ In order for your installation to go smoothly the following steps are recommende
 
 ## Installing the List
 
-If you are updating your existing installation of Everfall, skip to the [Updating](-updating-everfall) section of this document.
+If you are updating your existing installation of Everfall, skip to the [Updating](#-updating-everfall) section of this document.
 
 It’s now time to begin the installation of the list. Follow these steps:
 
