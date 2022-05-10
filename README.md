@@ -1,12 +1,14 @@
+![EverFall](https://user-images.githubusercontent.com/38520983/167520412-d102b140-06b6-4a9a-9745-8ddb476c6cbe.png)
+
 # Everfall
-Documentation for the Dragon's Dogma Wabbajack list, Everfall.
+Documentation for the Dragon's Dogma: Dark Arisen Wabbajack list, Everfall.
 
 ---
 
 
 ### Steam Setup
 
-In order to install Everfall, it is required that you have an unmodified installation of Dragon's Dogma Dark Arisen installed through Steam. Currently only the Steam version is supported, as the GoG version is outdated in comparison. 
+In order to install Everfall, it is required that you have an unmodified installation of Dragon's Dogma: Dark Arisen installed through Steam. Currently only the Steam version is supported, as the GoG version is outdated in comparison. 
 
 In order to ensure you have an unmodified copy of the game installed, please use Steam's Verify function to restore your gamefiles to their original state. You can find information on how to do this [HERE](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB).
 
