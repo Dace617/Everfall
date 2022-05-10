@@ -105,6 +105,12 @@ To actually launch and then play Everfall, follow these steps:
 
 5. Upon starting the game I recommend adjusting the in game options by selecting Main Menu, then Options. In particular disabling Depth of Field and ensuring a 16:9 resolution should provide best results. I also recommend playing the game in Windowed Mode and using a borderless fullscreen application such as Borderless Gaming, however Fullscreen should work perfectly fine.
 
+## Mods and Mod Organizer
+
+Unlike other games you might be used to modding in Mod Organizer. Dragon's Dogma has unique ways of handling it's game data. The majority of the game files are modified through various `Arc` format archives, these need to be unpacked and repacked whenever a change is made, therefore: ***The majority of the mods listed in Mod Organizer will do nothing if disabled*** as they have been merged into final archives. The mods are included in Mod Organizer to give a visual representation of what has been added to the list and allow proper credit to be given to the mod authors. 
+
+Please refer to modifying the list in the Gameplay document if you would like information on what you can and cannot change.
+
 ## Common Issues
 
 * Ultrawide resolutions have had issues during testing with strange visual effects during cutscenes, I recommened a 16:9 resolution. If you have any details on how to fix this for Ultrawide please let me know.
@@ -116,4 +122,4 @@ Until a proper bug tracking solution is implemented please contact me on discord
 
 ---
 
-#### General Gameplay information can be found [HERE](https://github.com/Dace617/Everfall/blob/main/Gameplay.md)
+# General Gameplay information can be found [HERE](https://github.com/Dace617/Everfall/blob/main/Gameplay.md)
