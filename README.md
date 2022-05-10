@@ -5,6 +5,29 @@ Documentation for the Dragon's Dogma: Dark Arisen Wabbajack list, Everfall.
 
 ---
 
+# Preamble
+
+Everfall was initially created as a passion project to share with people what I enjoy about the game Dragon's Dogma: Dark Arisen.
+The list aims to improve upon the base given in the game already and fix a number of bugs and issues I, personally, have when playing Dragon's Dogma. You won't find sweeping world changes, or overpowered cheat mods that trivialize many of the games mechanics. You should find a solid, lightly improved, and hopefully enjoyable experience playing Dragon's Dogma with quite a few quality of life and visually appealing mods that perhaps are confusing for you to package together yourself.
+
+I do have larger plans for this modlist. In an ideal situation I would enjoy including some sprawling changes to the gameplay or enemies found in the world, sadly, the mods required to meet this vision don't exist. The ones that do don't quite fit my vision for this game. So I will endevour to improve this list over time and possibly even learn to mod the game myself so that I can finally deliver on my vision for the game.
+
+For now I hope you enjoy what I've provided, even if it is rather simple and largely similar to the original game.
+
+## Remarks and Thanks
+
+This list wouldn't be possible without the work done by Halgari and the Wabbajack staff.
+
+I would also like to thank Styyx for brainstorming with me for ideas on how to get this list to function.
+
+The largest thank you goes out to ForgottenGlory, GravenImages and PulsefireEzreal. I wouldn't have the confidence nor community to release something like this without ForgottenGlory helping me along and giving me some pushes to actually discover what I can do. And I would like to thank GravenImages and PulsefireEzreal for giving me valuable feedback while creating this list.
+
+And thank you to anyone who plays this list. My biggest goal is to spread the fun I had while playing Dragon's Dogma to other people who haven't experienced it yet, or who want to bring back the fun they've already had with the game.
+
+---
+
+
+# Installation
 
 ### Steam Setup
 
