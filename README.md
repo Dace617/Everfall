@@ -1,9 +1,10 @@
+
 ![EverFall](https://user-images.githubusercontent.com/38520983/167520412-d102b140-06b6-4a9a-9745-8ddb476c6cbe.png)
 
 # Everfall
-Documentation for the Dragon's Dogma: Dark Arisen Wabbajack list, Everfall.
 
----
+Welcome to Everfall, enjoy your time playing.
+
 
 # Preamble
 
@@ -26,6 +27,16 @@ And thank you to anyone who plays this list. My biggest goal is to spread the fu
 
 ---
 
+# Requirements
+
+A clean, unmodified installation of Dragon's Dogma: Dark Arisen. The game is relatively old, so should run on most systems quite well. Using the SweetFX or ENB profile included my PC running the following specs runs at a steady 60fps at 1080p:
+
+* i5 6700k Intel CPU
+* GTX 1070 Graphics card with 8gb VRAM
+* 16 GB RAM
+* Approx. 13GB Hard Drive space is required for the list *including* downloads.
+
+I have been informed AMD Graphics card users can run into certain issues using ENB and the like. If you run into any of these issues please try disabling the ENB or SweetFX preset first. If you know any workarounds for AMD users, please let me know.
 
 # Installation
 
@@ -33,9 +44,9 @@ And thank you to anyone who plays this list. My biggest goal is to spread the fu
 
 In order to install Everfall, it is required that you have an unmodified installation of Dragon's Dogma: Dark Arisen installed through Steam. Currently only the Steam version is supported, as the GoG version is outdated in comparison. 
 
-In order to ensure you have an unmodified copy of the game installed, please use Steam's Verify function to restore your gamefiles to their original state. You can find information on how to do this [HERE](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB).
+In order to ensure you have an unmodified copy of the game installed, please use Steam's Verify function to restore your game files to their original state. You can find information on how to do this [HERE](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB).
 
-If you would like to keep any modified gamefiles, please back them up before you do this step.
+If you would like to keep any modified game files, please back them up before you do this step.
 
 ---
 
@@ -91,11 +102,27 @@ Among other things, Wabbajack has installed a copy of Mod Organizer 2 for you. T
 2. Mod Organizer 2 will have a dark theme already selected for you. If it does not, something has gone wrong and you will need to start over at the Installing the List section of this document.
 3. A dialogue may appear and ask if you want to associate Mod Organizer with .nxm links. Click Yes. If this dialogue does not appear, it is not an issue and means you’ve likely already done this.
 
+---
 
-### SweetFX
-By default, Everfall contains a SweetFX preset [you can find it here](https://www.nexusmods.com/dragonsdogma/mods/49) If you would prefer not to use this preset, either out of preference, or performance concerns you can disable the `SweetFX (ENABLE ONLY ONE)` mod in Mod Organizer by clicking the tick mark to the left of the mod. 
+### SweetFX and ENB
+By default, Everfall contains a SweetFX preset [you can find it here](https://www.nexusmods.com/dragonsdogma/mods/49), and two versions of the [Reforged 2](https://www.nexusmods.com/dragonsdogma/mods/437) ENB preset. Please only enable **ONE** of these at a time.
 
-Support for other SweetFX presets, or ENB presets are planned, but not finalized yet. Contact me on discord if you would like help installing an ENB.
+To enable ENB:
+* Scroll down in Mod Organizer until you see the section titled `ENB (DISABLE SWEETFX IF YOU USE THIS)` 
+* In this section you will see three mods, the first is the `ENB (ENABLE ONLY THIS OR SWEETFX)` the next two are the two different versions of the Reforged 2 preset.
+* Click the check box to the left of the ENB mod, so it displays a check mark. Then do the same for **ONE** of either Reforged 2 or Reforged 2 Lite
+Reforged 2 Lite should be used if you would still like an ENB but using the Reforged 2 preset causes performance issues for you.
+
+To Enable SweetFX:
+* Scroll down in Mod Organizer until you see the section titled `SweetFX (DISABLE ENB IF YOU USE THIS)`
+* In this section you will see a mod titled `Sweet FX (ENABLE ONLY THIS OR ENB)`, Click the box to the left of this to enable it.
+
+Please only use either ENB or SweetFX, do not enable both. 
+
+Support for other ENB or SweetFX presets is relatively simple. simply install the preset into Mod Organizer, place it into the SweetFX or ENB category, then place all the files and folders that came with your preset inside a folder called `root` inside the mod. I will provide basic support for this on Discord.
+
+---
+
 
 ## Updating Everfall
 If you are updating Everfall, the process is very similar to installing the list. Make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
@@ -150,4 +177,4 @@ Please log any bug reports on Github [HERE](https://github.com/Dace617/Everfall/
 
 ---
 
-# General Gameplay information can be found [HERE](https://github.com/Dace617/Everfall/blob/main/Gameplay.md)
+# General Gameplay information can be found [HERE](https://github.com/Dace617/Everfall/wiki/Gameplay)
