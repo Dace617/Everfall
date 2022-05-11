@@ -5,6 +5,10 @@
 
 Welcome to Everfall, enjoy your time playing.
 
+You can download the latest version of the list [here](https://drive.google.com/drive/folders/1iRYTuiXsW--P9ZvdDbIl967CD4aGaeLC?usp=sharing)
+
+---
+
 
 # Preamble
 
