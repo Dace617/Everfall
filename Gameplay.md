@@ -23,7 +23,8 @@ The general gameplay for Dragon's Dogma: Dark Arisen remains largely unchanged.
 * Various tweaks to Magick Archer and Mystic Knights stats are based on [Th3 Space Pope's Mystic Knight and Magick Archer Alternate Stat Growth](https://www.nexusmods.com/dragonsdogma/mods/95) mod. Which should help reduce the need to switch professions when leveling. This is an ongoing effort and I would appreciate feedback on the hybrid classes of the game.
 * A slightly modified EXP Table based on [Vagrant0's Alternate EXP Table](https://www.nexusmods.com/dragonsdogma/mods/334) is included to make the later levels a little slower to achieve.
 * Carry capacity has been lightly increased across all weight classes. This should remove some tedium from weight management while still keeping it a factor.
-* [LDKSuper Dante's A Fortress Besieged Quest Improved Boss Fight](https://www.nexusmods.com/dragonsdogma/mods/683) changes up one of the more lackluster boss fights in the original game.
+* Stamina drain while sprinting has been halved, I feel like this restriction was a bit too steep especially while traveling Gransys, It should have little effect on combat but make traveling much easier.
+* [LDKSuperDante's A Fortress Besieged Quest Improved Boss Fight](https://www.nexusmods.com/dragonsdogma/mods/683) changes up one of the more lackluster boss fights in the original game.
 
 ## The Armor and Weapons
 
