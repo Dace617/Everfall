@@ -1,37 +1,38 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "My Modlist",
-    "description": "Best thing since sliced bread",
-    "author": "<any name you want to show up in the UI>",
+    "title": "Everfall",
+    "description": "A lightly modified experience for Dragon's Dogma: Dark Arisen.",
+    "author": "Dace617",
     "maintainers": [
-      "github/<your github name>"
+      "github/Dace617"
     ],
-    "game": "skyrimspecialedition",
+    "game": "dragonsdogma",
     "tags": [
-      "testing",
-      "<any tags you want in the UI, each in its own string"
+      "Unofficial",
+      "Lite",
+      "Vanilla Plus"
     ],
     "nsfw": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
-      "readme": "<link to your readme for your modlist>",
+      "image": "https://raw.githubusercontent.com/Dace617/Everfall/main/EverFall.png",
+      "readme": "https://github.com/Dace617/Everfall/wiki/Readme",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "machineURL",
+      "machineURL": "everfall",
       "discordURL": "<your discord link here>"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "byS73Tn0HY4=",
+      "Size": 5431312,
+      "NumberOfArchives": 1559,
+      "SizeOfArchives": 10985765073,
+      "NumberOfInstalledFiles": 3646,
+      "SizeOfInstalledFiles": 11586828966
     },
-    "version": "1.0"
+    "version": "1.2"
   }
 ]
