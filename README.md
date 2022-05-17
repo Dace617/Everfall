@@ -5,7 +5,6 @@
 
 Welcome to Everfall, enjoy your time playing.
 
-You can download the latest version of the list [here](https://drive.google.com/drive/folders/1iRYTuiXsW--P9ZvdDbIl967CD4aGaeLC?usp=sharing)
 
 ---
 
@@ -80,13 +79,14 @@ If you are updating your existing installation of Everfall, skip to the [Updatin
 It’s now time to begin the installation of the list. Follow these steps:
 
 1. Run Wabbajack.exe. Please make sure the exe file is located in the Wabbajack folder you created in the previous step.
-2. Download the Everfall Wabbajack file from [This](https://drive.google.com/drive/folders/1iRYTuiXsW--P9ZvdDbIl967CD4aGaeLC?usp=sharing) link
-3. Once downloaded, At the bottom of the Wabbajack window, click Install From Disk.
-4. You will see three fields at the bottom of the screen, for now, we are interested in the top one: `Target Modlist`. Click the three dots on the right side of this field, and then browse to the Everfall.wabbajack file you downloaded earlier.
-5. The image on screen should change to the Everfall logo. Now, the second and third fields need to be filled out.
-6. Click the three dots in the second (middle) box. Navigate to the Everfall folder you created in the previous section and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
-7. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
-8. Click the play/right arrow button to begin the installation.
+2. Click the `Browse Modlists` button on the right side of the Wabbajack main screen.
+3. Make sure `Show Unofficial Lists` in the top right is checked, Then scroll the list until you find Everfall, alternatively you can change the 'Game' selection to Dragon's Dogma Dark Arisen.
+3. Click the download button on the gallery card. It will look like an arrow pointing down to a line, or a Play button if you've installed the list previously and there has been no update since your last install.
+4. The image on screen should change to the Everfall logo. Now, the second and third fields need to be filled out.
+5. Click the three dots in the second (middle) box. Navigate to the Everfall folder you created in the previous section and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
+6. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
+7. Click the play/right arrow button to begin the installation.
+
 
 | With Nexus Premium | Without Nexus Premium |
 | :--- | :--- |
@@ -133,14 +133,14 @@ If you are updating Everfall, the process is very similar to installing the list
 
 
 1. Run Wabbajack.exe.
-2. Download the Everfall Wabbajack file from [This](https://drive.google.com/drive/folders/1iRYTuiXsW--P9ZvdDbIl967CD4aGaeLC?usp=sharing) link
-3. Once downloaded, At the bottom of the Wabbajack window, click Install From Disk.
-4. You will see three fields at the bottom of the screen, for now, we are interested in the top one: `Target Modlist`. Click the three dots on the right side of this field, and then browse to the Everfall.wabbajack file you downloaded in the second step.
-5. The image on screen should change to the Everfall logo. Now, the second and third fields need to be filled out.
-6. Click the three dots in the second (middle) box. Navigate to the Everfall folder you previously installed the list to.
-7. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
-8. Click the play/right arrow button to begin the installation.
-9. If you are prompted to overwrite, confirm that this is what you want to do by clicking the Confirm button.
+2. Click the `Browse Modlists` button on the right side of the Wabbajack main screen.
+3. Make sure `Show Unofficial Lists` in the top right is checked, Then scroll the list until you find Everfall, alternatively you can change the 'Game' selection to Dragon's Dogma Dark Arisen.
+3. Click the download button on the gallery card. It will look like an arrow pointing down to a line, If you see a play button here you already have the latest version.
+4. The image on screen should change to the Everfall logo. Now, the second and third fields need to be filled out.
+5. Click the three dots in the second (middle) box. Navigate to the Everfall folder you created in the previous section and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
+6. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
+7. Click the play/right arrow button to begin the installation.
+8. If you are prompted to overwrite, confirm that this is what you want to do by clicking the Confirm button.
 
 ## A note on existing save files
 
