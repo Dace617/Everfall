@@ -47,6 +47,10 @@ I have been informed AMD Graphics card users can run into certain issues using E
 
 In order to install Everfall, it is required that you have an unmodified installation of Dragon's Dogma: Dark Arisen installed through Steam. Currently only the Steam version is supported, as the GoG version is outdated in comparison. 
 
+If you are installing Dragon's Dogma: Dark Arisen for the first time before playing this list: Please run the game to the main menu once before installing the list.
+
+If you have Dragon's Dogma: Dark Arisen installed prior to installing this list please note the following:
+
 In order to ensure you have an unmodified copy of the game installed, please use Steam's Verify function to restore your game files to their original state. You can find information on how to do this [HERE](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB).
 
 If you would like to keep any modified game files, please back them up before you do this step.
