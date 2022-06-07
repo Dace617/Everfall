@@ -113,7 +113,7 @@ Among other things, Wabbajack has installed a copy of Mod Organizer 2 for you. T
 ---
 
 ### SweetFX and ENB
-By default, Everfall contains a SweetFX preset [you can find it here](https://www.nexusmods.com/dragonsdogma/mods/49), and two versions of the [Reforged 2](https://www.nexusmods.com/dragonsdogma/mods/437) ENB preset. Please only enable **ONE** of these at a time.
+By default, Everfall contains a SweetFX preset [you can find it here](https://www.nexusmods.com/dragonsdogma/mods/49), and two versions of the [Reforged 2](https://www.nexusmods.com/dragonsdogma/mods/437) ENB preset. Please only enable **ONE** of these at a time. Please also note AMD hardware users may have issues with using the ENB.
 
 To enable ENB:
 * Scroll down in Mod Organizer until you see the section titled `ENB (DISABLE SWEETFX IF YOU USE THIS)` 
@@ -126,6 +126,8 @@ To Enable SweetFX:
 * In this section you will see a mod titled `Sweet FX (ENABLE ONLY THIS OR ENB)`, Click the box to the left of this to enable it.
 
 Please only use either ENB or SweetFX, do not enable both. 
+
+If you enable the ENB please adjust your ingame Graphics Settings on the main menu to have: Anti-aliasing set to none, HDR set to High, and Depth of Field turned on. You will also need around 8-10 brightness set on the brightness slider (this will vary according to your monitor settings and other factors, please adjust until you can see the game well.)
 
 Support for other ENB or SweetFX presets is relatively simple. simply install the preset into Mod Organizer, place it into the SweetFX or ENB category, then place all the files and folders that came with your preset inside a folder called `root` inside the mod. I will provide basic support for this on Discord.
 
